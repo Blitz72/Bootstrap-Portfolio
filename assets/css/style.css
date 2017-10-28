@@ -1,0 +1,53 @@
+body {
+  background: radial-gradient(#aaa, #fff);
+  /*background-color: #eee*/
+  padding-bottom: 70px;
+}
+
+.navbar-left {
+  margin-left: 50px;
+}
+
+.page-header {
+  padding-left: 20px;
+}
+
+#profilePic {
+  width: 100%;
+  height: auto;
+  padding: 20px;
+}
+
+/*.img-fluid {
+  min-width: 100px;
+}*/
+
+.main-text {
+  /*margin-left: 20px;*/
+  padding: 10px 20px 10px 20px;
+}
+
+input, .form-control {
+  background-color: #efefef;
+}
+
+.hover:hover {
+  opacity: 0.6;
+}
+
+.size {
+  width: 100px;
+  height: auto;
+}
+
+.panel-body {
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+
+.footer {
+	background-color: #efefef;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+}
+
